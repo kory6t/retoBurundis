@@ -42,7 +42,11 @@ window.onload = function () {
             alert(`El Estadounidense habla 3 idiomas; ${en}, ${jp} y ${es}`)
 
             break;
+
+            default: alert('Ingresa un valor del 1 al 5')
+                break;
     }
+
 
 
 
